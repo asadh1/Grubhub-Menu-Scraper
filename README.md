@@ -1,4 +1,4 @@
-# Grubhub Webscraper
+# Grubhub Menu Webscraper
 ### This program allows you to scrape the menu of a restaurant from grubhub given a valid url
 
 ### Works using Python 3
