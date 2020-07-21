@@ -1,0 +1,604 @@
+{
+    "Deals": [
+        {
+            "name": "Sixpack",
+            "price": "$11.25",
+            "options": {
+                "Choose Cookies": [
+                    "Chocolate Chunk",
+                    "Double Chocolate Chunk",
+                    "Double Chocolate Mint",
+                    "Classic with M&M's",
+                    "Snickerdoodle",
+                    "Sugar",
+                    "White Chocolate Macadamia",
+                    "Oatmeal Raisin",
+                    "Peanut Butter Chip"
+                ]
+            }
+        },
+        {
+            "name": "Sugar Rush (12 Traditional)",
+            "price": "$21.50",
+            "options": {
+                "Choose cookies": [
+                    "Chocolate Chunk",
+                    "Double Chocolate Chunk",
+                    "Classic with M&M's",
+                    "Snickerdoodle",
+                    "Sugar",
+                    "White Chocolate Macadamia",
+                    "Double Chocolate Mint",
+                    "Oatmeal Raisin",
+                    "Peanut Butter Chip"
+                ]
+            }
+        },
+        {
+            "name": "Major Rager (18 Traditional)",
+            "price": "$31.50",
+            "options": {
+                "Choose cookies": [
+                    "Chocolate Chunk",
+                    "Double Chocolate Chunk",
+                    "Classic with M&M's",
+                    "Snickerdoodle",
+                    "Sugar",
+                    "White Chocolate Macadamia",
+                    "Double Chocolate Mint",
+                    "Oatmeal Raisin",
+                    "Peanut Butter Chip"
+                ]
+            }
+        },
+        {
+            "name": "Insomniac (24 Traditional)",
+            "price": "$41.00",
+            "options": {
+                "Choose cookies": [
+                    "Chocolate Chunk",
+                    "Double Chocolate Chunk",
+                    "Classic with M&M's",
+                    "Snickerdoodle",
+                    "Sugar",
+                    "White Chocolate Macadamia",
+                    "Double Chocolate Mint",
+                    "Oatmeal Raisin",
+                    "Peanut Butter Chip"
+                ]
+            }
+        },
+        {
+            "name": "Super 6",
+            "price": "$13.00",
+            "options": {
+                "Select 5 traditional cookies (please note quantities in Special Instructions)": [
+                    "Chocolate Chunk",
+                    "Classic with M&M's",
+                    "Double Chocolate Chunk",
+                    "Double Chocolate Mint",
+                    "Oatmeal Raisin",
+                    "Peanut Butter Chip",
+                    "Snickerdoodle",
+                    "Sugar",
+                    "White Chocolate Macadamia"
+                ],
+                "Select 1 Deluxe Cookie": [
+                    "Chocolate Peanut Butter Cup",
+                    "Smores",
+                    "Triple Chocolate",
+                    "Confetti",
+                    "Oatmeal Chocolate Walnut",
+                    "Salted Caramel"
+                ]
+            }
+        },
+        {
+            "name": "Delicious Duo",
+            "price": "$7.60",
+            "options": {
+                "Choose first cookie": [
+                    "Chocolate Chunk",
+                    "Classic with M&M's",
+                    "Sugar",
+                    "Peanut Butter Chip",
+                    "Snickerdoodle",
+                    "Oatmeal Raisin",
+                    "Double Chocolate Mint",
+                    "White Chocolate Macadamia",
+                    "Double Chocolate Chunk"
+                ],
+                "Choose second cookies": [
+                    "Chocolate Chunk",
+                    "Classic with M&M's",
+                    "Sugar",
+                    "Peanut Butter Chip",
+                    "Snickerdoodle",
+                    "Oatmeal Raisin",
+                    "Double Chocolate Mint",
+                    "White Chocolate Macadamia",
+                    "Double Chocolate Chunk"
+                ],
+                "Choose a milk": [
+                    "Whole Milk",
+                    "2% Milk",
+                    "Chocolate Milk"
+                ]
+            }
+        },
+        {
+            "name": "Mini Major Rager",
+            "price": "$10.00",
+            "options": {}
+        },
+        {
+            "name": "Mini Insomniac",
+            "price": "$12.50",
+            "options": {}
+        },
+        {
+            "name": "Deluxe 4-Pack",
+            "price": "$13.00",
+            "options": {
+                "Choose Deluxe Cookies (put quantities into Special Instructions)": [
+                    "Triple Chocolate",
+                    "Smores",
+                    "Chocolate Peanut Butter Cup",
+                    "Confetti",
+                    "Oatmeal Chocolate Walnut",
+                    "Salted Caramel"
+                ]
+            }
+        },
+        {
+            "name": "Deluxe 6-Pack",
+            "price": "$19.00",
+            "options": {
+                "Choose Deluxe Cookies (put quantities into Special Instructions)": [
+                    "Triple Chocolate",
+                    "Smores",
+                    "Chocolate Peanut Butter Cup",
+                    "Confetti",
+                    "Oatmeal Chocolate Walnut",
+                    "Salted Caramel"
+                ]
+            }
+        }
+    ],
+    "Residence Hall Specials": [
+        {
+            "name": "50 Cookies",
+            "price": "$80.00",
+            "options": {
+                "Choose cookies": [
+                    "Chocolate Chunk",
+                    "Double Chocolate Chunk",
+                    "Classic with M&M's",
+                    "Snickerdoodle",
+                    "Sugar",
+                    "White Chocolate Macadamia",
+                    "Double Chocolate Mint",
+                    "Oatmeal Raisin",
+                    "Peanut Butter Chip"
+                ],
+                "Would you like wax bags?": {
+                    "Individually Wrap in Wax Bags": "$12.50"
+                }
+            }
+        },
+        {
+            "name": "100 Cookies",
+            "price": "$155.00",
+            "options": {
+                "Choose cookies": [
+                    "Chocolate Chunk",
+                    "Double Chocolate Chunk",
+                    "Classic with M&M's",
+                    "Snickerdoodle",
+                    "Sugar",
+                    "White Chocolate Macadamia",
+                    "Double Chocolate Mint",
+                    "Oatmeal Raisin",
+                    "Peanut Butter Chip"
+                ],
+                "Would you like wax bags?": {
+                    "Individually Wrap in Wax Bags": "$25.00"
+                }
+            }
+        },
+        {
+            "name": "200 Cookies",
+            "price": "$300.00",
+            "options": {
+                "Choose cookies": [
+                    "Chocolate Chunk",
+                    "Double Chocolate Chunk",
+                    "Classic with M&M's",
+                    "Snickerdoodle",
+                    "Sugar",
+                    "White Chocolate Macadamia",
+                    "Double Chocolate Mint",
+                    "Oatmeal Raisin",
+                    "Peanut Butter Chip"
+                ],
+                "Would you like wax bags?": {
+                    "Individually Wrap in Wax Bags": "$50.00"
+                }
+            }
+        },
+        {
+            "name": "300 Cookies",
+            "price": "$425.00",
+            "options": {
+                "Choose cookies": [
+                    "Chocolate Chunk",
+                    "Double Chocolate Chunk",
+                    "Classic with M&M's",
+                    "Snickerdoodle",
+                    "Sugar",
+                    "White Chocolate Macadamia",
+                    "Double Chocolate Mint",
+                    "Oatmeal Raisin",
+                    "Peanut Butter Chip"
+                ],
+                "Would you like wax bags?": {
+                    "Individually Wrap in Wax Bags": "$75.00"
+                }
+            }
+        }
+    ],
+    "Cookies and Brownies": [
+        {
+            "name": "Chocolate Chunk Cookie",
+            "price": "$1.95",
+            "options": {}
+        },
+        {
+            "name": "Double Chocolate Chunk Cookie",
+            "price": "$1.95",
+            "options": {}
+        },
+        {
+            "name": "Classic with M&M's",
+            "price": "$1.95",
+            "options": {}
+        },
+        {
+            "name": "Oatmeal Raisin Cookie",
+            "price": "$1.95",
+            "options": {}
+        },
+        {
+            "name": "Peanut Butter Chip Cookie",
+            "price": "$1.95",
+            "options": {}
+        },
+        {
+            "name": "Snickerdoodle Cookie",
+            "price": "$1.95",
+            "options": {}
+        },
+        {
+            "name": "Sugar Cookie",
+            "price": "$1.95",
+            "options": {}
+        },
+        {
+            "name": "White Chocolate Macadamia Cookie",
+            "price": "$1.95",
+            "options": {}
+        },
+        {
+            "name": "Double Chocolate Mint Cookie",
+            "price": "$1.95",
+            "options": {}
+        },
+        {
+            "name": "Chocolate Chip Brownie",
+            "price": "$3.85",
+            "options": {
+                "Would you like toppings?": {
+                    "Add Cookie Dough": "$1.05",
+                    "Add M&Ms": "$1.05",
+                    "Add Reese's": "$1.05",
+                    "Add Snickers": "$1.05",
+                    "Add Brownie Bites": "$1.05",
+                    "Add Rainbow Sprinkles": "$1.05"
+                }
+            }
+        },
+        {
+            "name": "Chocolate Peanut Butter Cup Jumbo Deluxe Cookie",
+            "price": "$3.90",
+            "options": {}
+        },
+        {
+            "name": "S'Mores Jumbo Deluxe Cookie",
+            "price": "$3.90",
+            "options": {}
+        },
+        {
+            "name": "Triple Chocolate Jumbo Deluxe Cookie",
+            "price": "$3.90",
+            "options": {}
+        },
+        {
+            "name": "Confetti Deluxe Cookie",
+            "price": "$3.90",
+            "options": {}
+        },
+        {
+            "name": "Oatmeal Chocolate Walnut Deluxe Cookie",
+            "price": "$3.90",
+            "options": {}
+        },
+        {
+            "name": "Salted Caramel Deluxe Cookie",
+            "price": "$3.90",
+            "options": {}
+        }
+    ],
+    "Cookie Cakes": [
+        {
+            "name": "Mini Cake - Req. min 1 hour preparation",
+            "price": "$14.00",
+            "options": {
+                "Choose a flavor": [
+                    "Chocolate Chunk",
+                    "Double Chocolate Chunk",
+                    "Classic with M&M's",
+                    "Oatmeal Raisin",
+                    "Peanut Butter Chip",
+                    "Snickerdoodle",
+                    "Sugar",
+                    "Double Chocolate Mint",
+                    "White Chocolate Macadamia"
+                ],
+                "Choose an image": [
+                    "Only Icing - No Image",
+                    "Birthday",
+                    "Congratulations",
+                    "Bite Me",
+                    "Day Sucked",
+                    "Thank You"
+                ]
+            }
+        },
+        {
+            "name": "10\" Cookie Cake - Req. min 1 hour preparation",
+            "price": "$25.50",
+            "options": {
+                "Choose a flavor": [
+                    "Chocolate Chunk",
+                    "Double Chocolate Chunk",
+                    "Classic with M&M's",
+                    "Oatmeal Raisin",
+                    "Peanut Butter Chip",
+                    "Snickerdoodle",
+                    "Sugar",
+                    "Double Chocolate Mint",
+                    "White Chocolate Macadamia"
+                ],
+                "Choose an image": [
+                    "Only Icing - No Image",
+                    "Birthday",
+                    "Congratulations",
+                    "Bite Me",
+                    "Day Sucked",
+                    "Thank You"
+                ],
+                "Would you like toppings?": {
+                    "Add M&Ms": "$2.10",
+                    "Add Reese's": "$2.10",
+                    "Add Snickers": "$2.10",
+                    "Add Brownie Bites": "$2.10",
+                    "Add Rainbow Sprinkles": "$2.10",
+                    "Add Cookie Dough": "$2.10"
+                }
+            }
+        }
+    ],
+    "Wiches": [
+        {
+            "name": "Cookiewich",
+            "price": "$6.65",
+            "options": {
+                "Choose an ice cream flavor": [
+                    "Vanilla",
+                    "Chocolate"
+                ],
+                "Choose up to two cookies": [
+                    "Chocolate Chunk",
+                    "Double Chocolate Chunk",
+                    "Classic with M&M's",
+                    "Oatmeal Raisin",
+                    "Peanut Butter Chip",
+                    "Snickerdoodle",
+                    "Sugar",
+                    "White Chocolate Macadamia",
+                    "Double Chocolate Mint"
+                ]
+            }
+        },
+        {
+            "name": "Deluxe Cookiewich",
+            "price": "$9.50",
+            "options": {
+                "Choose an ice cream flavor": [
+                    "Vanilla",
+                    "Chocolate"
+                ],
+                "Choose up to two cookies": [
+                    "Triple Chocolate",
+                    "Smores",
+                    "Chocolate Peanut Butter Cup",
+                    "Confetti",
+                    "Oatmeal Chocolate Walnut",
+                    "Salted Caramel"
+                ]
+            }
+        },
+        {
+            "name": "Bigwich",
+            "price": "$6.65",
+            "options": {
+                "Choose up to two cookies": [
+                    "Chocolate Chunk",
+                    "Double Chocolate Chunk",
+                    "Classic with M&M's",
+                    "Oatmeal Raisin",
+                    "Peanut Butter Chip",
+                    "Snickerdoodle",
+                    "Sugar",
+                    "White Chocolate Macadamia",
+                    "Double Chocolate Mint"
+                ]
+            }
+        },
+        {
+            "name": "Deluxe Bigwich",
+            "price": "$9.50",
+            "options": {
+                "Choose up to two cookies": [
+                    "Triple Chocolate",
+                    "Smores",
+                    "Chocolate Peanut Butter Cup",
+                    "Confetti",
+                    "Oatmeal Chocolate Walnut",
+                    "Salted Caramel"
+                ]
+            }
+        }
+    ],
+    "Ice Cream": [
+        {
+            "name": "Pint of Ice Cream",
+            "price": "$8.45",
+            "options": {
+                "Choose an ice cream flavor": [
+                    "Vanilla",
+                    "Chocolate"
+                ],
+                "Would you like toppings?": {
+                    "Add Cookie Dough": "$1.05",
+                    "Add M&Ms": "$1.05",
+                    "Add Snickers": "$1.05",
+                    "Add Reese's": "$1.05",
+                    "Add Rainbow Sprinkles": "$1.05"
+                }
+            }
+        },
+        {
+            "name": "Quart of Ice Cream",
+            "price": "$13.55",
+            "options": {
+                "Choose an ice cream flavor": [
+                    "Vanilla",
+                    "Chocolate"
+                ],
+                "Would you like toppings?": {
+                    "Add Cookie Dough": "$2.10",
+                    "Add M&Ms": "$2.10",
+                    "Add Snickers": "$2.10",
+                    "Add Reese's": "$2.10",
+                    "Add Rainbow Sprinkles": "$2.10"
+                }
+            }
+        },
+        {
+            "name": "Cookie with a Scoop",
+            "price": "$4.45",
+            "options": {
+                "Choose cookie": [
+                    "Chocolate Chunk",
+                    "Double Chocolate Chunk",
+                    "Classic with M&M's",
+                    "Oatmeal Raisin",
+                    "Peanut Butter Chip",
+                    "Snickerdoodle",
+                    "Sugar",
+                    "Double Chocolate Mint",
+                    "White Chocolate Macadamia"
+                ],
+                "Choose an ice cream flavor": [
+                    "Vanilla",
+                    "Chocolate"
+                ],
+                "Would you like toppings?": {
+                    "Add Cookie Dough": "$1.05",
+                    "Add M&Ms": "$1.05",
+                    "Add Reese's": "$1.05",
+                    "Add Snickers": "$1.05",
+                    "Add Brownie Bites": "$1.05",
+                    "Add Rainbow Sprinkles": "$1.05"
+                }
+            }
+        },
+        {
+            "name": "Deluxe with a Scoop",
+            "price": "$6.40",
+            "options": {
+                "Choose an ice cream flavor": [
+                    "Vanilla",
+                    "Chocolate"
+                ],
+                "Choose cookie": [
+                    "Triple Chocolate",
+                    "Smores",
+                    "Chocolate Peanut Butter Cup",
+                    "Confetti",
+                    "Oatmeal Chocolate Walnut",
+                    "Salted Caramel"
+                ],
+                "Would you like toppings?": {
+                    "Add Cookie Dough": "$1.05",
+                    "Add M&Ms": "$1.05",
+                    "Add Reese's": "$1.05",
+                    "Add Snickers": "$1.05",
+                    "Add Brownie Bites": "$1.05",
+                    "Add Rainbow Sprinkles": "$1.05"
+                }
+            }
+        },
+        {
+            "name": "Brownie with a Scoop",
+            "price": "$6.35",
+            "options": {
+                "Choose an ice cream flavor": [
+                    "Vanilla",
+                    "Chocolate"
+                ],
+                "Would you like toppings?": {
+                    "Add Cookie Dough": "$1.05",
+                    "Add M&Ms": "$1.05",
+                    "Add Reese's": "$1.05",
+                    "Add Snickers": "$1.05",
+                    "Add Brownie Bites": "$1.05",
+                    "Add Rainbow Sprinkles": "$1.05"
+                }
+            }
+        }
+    ],
+    "Beverages": [
+        {
+            "name": "Bottled Water",
+            "price": "$2.60",
+            "options": {}
+        },
+        {
+            "name": "2% Milk",
+            "price": "$3.75",
+            "options": {}
+        },
+        {
+            "name": "Chocolate Milk",
+            "price": "$3.75",
+            "options": {}
+        },
+        {
+            "name": "Whole Milk",
+            "price": "$3.75",
+            "options": {}
+        }
+    ]
+}
